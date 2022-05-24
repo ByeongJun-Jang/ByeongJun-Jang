@@ -1,8 +1,8 @@
 # Hello, Have a good day 😎
 
 
-### Must do it ✔
-- ~~~~~~~~~~~~~
+### Complete BOJ (Silver 5 upto) ✔
+- 1181 14729 1417 2581 1978 2606 2312 18870 2022 7562
 <!--
 **ByeongJun-Jang/ByeongJun-Jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
