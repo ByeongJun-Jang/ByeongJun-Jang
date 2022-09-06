@@ -1,7 +1,7 @@
 <div align = "center">
-#Hi👋!
-<b>I'm growing everyday🌱🌱</b>
-
+<h2>Hello! I'm ByengJun 😎</h2>
+<!--<b>I'm growing everyday🌱🌱</b>--!>
+</div>
 
 ### Complete BOJ (Gold 5 up) 📌
 - 2022 12865
