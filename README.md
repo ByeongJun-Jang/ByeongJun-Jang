@@ -1,4 +1,6 @@
-# Hello, Have a good day 😎
+<div align = "center">
+#Hi👋!
+<b>I'm growing everyday🌱🌱</b>
 
 
 ### Complete BOJ (Gold 5 up) 📌
