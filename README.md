@@ -11,12 +11,16 @@
 
 
 
-# 컴퓨터공학과 산학프로젝트 노패싱 🤠
+# Industry Project [ No Passing ] 🤠
 
+-
+-
+-
+-
 
-## 구성원
-- 조장 홍진석
-- 조원 안근우 장병준
+## Members
+-  홍진석
+-  안근우 장병준
 <!--
 **ByeongJun-Jang/ByeongJun-Jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
