@@ -3,7 +3,7 @@
 <!--<b>I'm growing everyday🌱🌱</b>--!>
 </div>
 
-### Complete BOJ (Gold 5 up) 📌
+### Complete BOJ (🥇Gold 5 up) 📌
 - 2022 12865
 <!--
 ### Complete BOJ (Silver 1 upto) ✔
