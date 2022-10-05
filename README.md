@@ -3,8 +3,7 @@
 <!--<b>I'm growing everyday🌱🌱</b>--!>
 </div>
 
-### Complete BOJ (🥇Gold 5 up) 📌
-- 2022 12865
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qudwns8616)](https://solved.ac/qudwns8616/)
 
