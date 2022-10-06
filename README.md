@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=ByeongJun's%20Github&fontColor=FF9900&fontSize=40)
 
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=IamJunhaHwang&show_icons=true&theme=dracula" />
 
 ##### 🙂 Hello, My name is ByeongJun-Jang   
 ##### 🔭 I'm currently in the thrid year of computer engineering undergraduate student at ChungBuk National University   
@@ -9,8 +8,7 @@
   
 ### *Programming Language*
   
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByeongJun-Jang&layout=compact)](https://github.com/ByeongJun-Jang/github-readme-stats" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeongJun-Jang)](https://github.com/ByeongJun-Jang/github-readme-stats)
 
 
 <div align = "center">
@@ -35,7 +33,7 @@
 <div align = "left">
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qudwns8616)](https://solved.ac/qudwns8616)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeongJun-Jang)](https://github.com/ByeongJun-Jang/github-readme-stats)
+
 </div>
 
 
