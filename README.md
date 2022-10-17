@@ -9,7 +9,7 @@
 ### *Programming Language*
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeongJun-Jang)](https://github.com/ByeongJun-Jang/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByeongJun-Jang)](https://github.com/ByeongJun-Jang/github-readme-stats)
 
 <div align = "center">
   
