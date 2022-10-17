@@ -20,11 +20,14 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=orange"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/HTML5-E7AE05?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-3776AB?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-E7AE05?style=flat-square&logo=JAVASCRIPT&logoColor=white"/>
+
 </div>
-
-
+<div align="center"
+<a href="https://velog.io/@junified7"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+</div>
 <br></br><br></br>
 
 ---------------
