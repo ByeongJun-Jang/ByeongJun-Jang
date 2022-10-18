@@ -1,15 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=ByeongJun's%20Github&fontColor=FF9900&fontSize=40)
-
-
-##### 🙂 Hello, My name is ByeongJun-Jang   
-##### 🔭 I'm currently in the thrid year of computer engineering undergraduate student at ChungBuk National University   
-
+<div align="center">
+<h3> ⭐️ Hello, My name is ByeongJun-Jang ⭐️  </h3>
+<h4> 🔭 I'm currently in the thrid year of computer engineering undergraduate student at ChungBuk National University   </h3>
+</div>
 ---------
-  
-### *Programming Language*
+<div align ="center">
+<h3> Programming Language </h3>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeongJun-Jang)](https://github.com/ByeongJun-Jang/github-readme-stats)
+
+### Top Language in Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByeongJun-Jang)](https://github.com/ByeongJun-Jang/github-readme-stats)
+</div>
+<br></br><br></br>
 
 <div align = "center">
   
@@ -25,10 +27,12 @@
   <img src="https://img.shields.io/badge/JAVASCRIPT-E7AE05?style=flat-square&logo=JAVASCRIPT&logoColor=white"/>
 
 </div>
-<div align="center"
+<br></br><br></br>
+<div align="center">
+<h3> My Velog ⭐️ </h3>
 <a href="https://velog.io/@junified7"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 </div>
-<br></br><br></br>
+<br></br>
 
 ---------------
 ### *PS rate*
