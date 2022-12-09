@@ -1,8 +1,11 @@
 <div align="center">
 <h3> ⭐️ Hello, My name is ByeongJun-Jang ⭐️  </h3>
-<h5> 🔭 I'm currently in the thrid year of computer engineering undergraduate student at ChungBuk National University   </h3>
+<h5> 🔭 I'm currently in the thrid year of computer engineering undergraduate student at ChungBuk National University   </h5>
+<h5> ✨ I will be a Full stack Developer </h5>
 </div>
----------
+
+---------------
+
 <div align ="center">
 <h3> Programming Language </h3>
   
