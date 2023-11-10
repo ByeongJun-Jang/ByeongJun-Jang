@@ -33,20 +33,19 @@
 <br></br><br></br>
 <div align="center">
 <h3> My Velog ⭐️ </h3>
-<a href="https://velog.io/@junified7"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="https://byeongjun-jang.github.io/"><img src="https://img.shields.io/badge/Homepage-40D1F5?style=flat-square&logo=Blogger&logoColor=white"/></a>
 </div>
 <br></br>
 
 ---------------
 ### *PS rate*
-
+<!--
 <div align = "left">
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qudwns8616)](https://solved.ac/qudwns8616)
 
 </div>
-
+-->
 
 
 
