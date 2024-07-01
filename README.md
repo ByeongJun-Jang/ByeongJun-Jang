@@ -32,7 +32,7 @@
 </div>
 <br></br><br></br>
 <div align="center">
-<h3> My Velog ⭐️ </h3>
+<h3> My Portfolio </h3>
 <a href="https://byeongjun-jang.github.io/"><img src="https://img.shields.io/badge/Homepage-40D1F5?style=flat-square&logo=Blogger&logoColor=white"/></a>
 </div>
 <br></br>
